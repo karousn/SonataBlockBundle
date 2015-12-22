@@ -39,4 +39,4 @@ Set ``cache_policy`` to private if this menu is dedicated to be in a user part.
 
 A specific menu template is provided as well to render Bootstrap3's side menu, you may use it by setting the ``menu_template`` option to ``SonataBlockBundle:Block:block_side_menu_template.html.twig`` (see the implementation in SonataUserBundle or Sonata's e-commerce suite).
 
-.. _KnpMenuBundle documentation: https://github.com/KnpLabs/KnpMenuBundle/blob/master/Resources/doc/index.md#rendering-menus
+.. _KnpMenuBundle documentation: https://github.com/KnpLabs/KnpMenuBundle/blob/master/Resources/doc/index.rst#rendering-menus
